@@ -1,0 +1,6 @@
+C:\Users\DenKy\source\repos\Task6\Task6\bin\Debug\Task6.exe.config
+C:\Users\DenKy\source\repos\Task6\Task6\bin\Debug\Task6.exe
+C:\Users\DenKy\source\repos\Task6\Task6\bin\Debug\Task6.pdb
+C:\Users\DenKy\source\repos\Task6\Task6\obj\Debug\Task6.csproj.CoreCompileInputs.cache
+C:\Users\DenKy\source\repos\Task6\Task6\obj\Debug\Task6.exe
+C:\Users\DenKy\source\repos\Task6\Task6\obj\Debug\Task6.pdb
