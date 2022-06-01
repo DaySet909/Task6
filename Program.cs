@@ -11,15 +11,15 @@ namespace Task6
         static void Main(string[] args)
         {
             int pictures = 52;
-            int oneRaw = 3;
-            int raws;
+            int picturesInRow = 3;
+            int fullRows;
             int overPictures;
 
-            raws = pictures / oneRaw;
-            overPictures = pictures - raws * oneRaw;
+            fullRows = pictures / picturesInRow;
+            overPictures = pictures % picturesInRow;
 
             Console.WriteLine("Всего картинок: " + pictures);
-            Console.WriteLine("Полностью заполненых рядов: " + raws);
+            Console.WriteLine("Полностью заполненых рядов: " + fullRows);
             Console.WriteLine("Картинок сверх меры: " + overPictures);
 
         }
